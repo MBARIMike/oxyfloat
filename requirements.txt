@@ -10,3 +10,4 @@ python-coveralls==2.4.1
 requests==2.8.1
 simpletable==0.2.2
 xray==0.6.1
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
